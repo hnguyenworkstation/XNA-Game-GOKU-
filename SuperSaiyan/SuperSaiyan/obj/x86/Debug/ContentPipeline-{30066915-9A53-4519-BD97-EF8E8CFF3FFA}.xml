@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Goku.png</Source>
+      <Name>Goku</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\Goku.xnb</Output>
+      <Time>2015-11-27T15:17:52.7578431-05:00</Time>
+    </Item>
+    <Item>
+      <Source>superfat.png</Source>
+      <Name>superfat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\superfat.xnb</Output>
+      <Time>2015-11-27T19:10:23.3578721-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gokuweapon.png</Source>
+      <Name>gokuweapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\gokuweapon.xnb</Output>
+      <Time>2015-11-27T22:04:09.7098121-05:00</Time>
+    </Item>
+    <Item>
+      <Source>supermanweapon.png</Source>
+      <Name>supermanweapon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\supermanweapon.xnb</Output>
+      <Time>2015-11-27T20:34:39.4547155-05:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2015-11-28T15:17:08.590701-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\GokuAttack.wav</Source>
+      <Name>sound\GokuAttack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\sound\GokuAttack.xnb</Output>
+      <Time>2015-11-28T20:36:37.6775575-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\GokuGetHit.wav</Source>
+      <Name>sound\GokuGetHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\sound\GokuGetHit.xnb</Output>
+      <Time>2015-11-28T20:48:15.6597839-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\GokuDeath.wav</Source>
+      <Name>sound\GokuDeath</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\sound\GokuDeath.xnb</Output>
+      <Time>2015-11-28T20:51:36.8504176-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\Explosion.wav</Source>
+      <Name>sound\Explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\sound\Explosion.xnb</Output>
+      <Time>2015-11-28T20:56:23.4146729-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\SuperfatBounce.wav</Source>
+      <Name>sound\SuperfatBounce</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\sound\SuperfatBounce.xnb</Output>
+      <Time>2015-11-28T20:56:36.2167076-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\SuperfatShot.wav</Source>
+      <Name>sound\SuperfatShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\sound\SuperfatShot.xnb</Output>
+      <Time>2015-11-28T20:56:55.6719139-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial20.spritefont</Source>
+      <Name>Arial20</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\Arial20.xnb</Output>
+      <Time>2015-11-28T21:42:14.6192241-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{30066915-9A53-4519-BD97-EF8E8CFF3FFA}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyanContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Hung\Documents\Visual Studio 2015\Projects\SuperSaiyan\SuperSaiyan\SuperSaiyan\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-27T12:28:17.7961852-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
